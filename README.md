@@ -1,5 +1,5 @@
 ### Hi there, I'm Jishnu 👋
-Glad to meet you
+Glad to meet you.
 I am passionate about Data Science and I am currently working on integrating BERT and RoBERTa to a Visual Question Answering model. 
 Most of the work I have contributed to can be found here. I’m currently in my final year of undergraduate studies. 
 If you find any critical inaqequacies in the work on this profile or have any questions about the work staged on this repository, 
